@@ -1,2 +1,5 @@
 # tda7419
-tda7419 audio processor python controller
+https://www.st.com/resource/en/datasheet/tda7419.pdf
+
+TDA7419 audio processor i2c python controller, support all functions from datasheet 
+
